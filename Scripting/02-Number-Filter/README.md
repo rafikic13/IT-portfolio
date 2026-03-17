@@ -43,12 +43,12 @@ This script demonstrates:
 
 ```text
 Enter a number: 50
-31
+21
 ```
 
 Explanation:
 
-31 is divisible by 3 and ends with the digit 1.
+21 is divisible by 3 and ends with the digit 1.
 
 ---
 

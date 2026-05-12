@@ -143,14 +143,6 @@ Added: testuser -> Administrators
 
 ---
 
-## Script File
-
-The script for this project is located in:
-
-'local-admin-toolkit.ps1'
-
----
-
 ## Requirements
 
 Some functions in this script require PowerShell to be run as administrator.
